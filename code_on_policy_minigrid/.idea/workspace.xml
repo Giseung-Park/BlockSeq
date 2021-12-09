@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f61b1ba2-75f9-4513-9f50-40357152bc0a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/evaluate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scripts/visualize.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/utils/agent.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requirements.txt" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/__init__.py" afterPath="$PROJECT_DIR$/utils/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/utils/storage.py" afterPath="$PROJECT_DIR$/utils/storage.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="train_block.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/train_block.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="evaluate_block.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/evaluate_block.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>acmodel</find>
+      <find>cnn_memories_post</find>
+      <find>bl_optimizer_state</find>
+      <find>get_bl_model_state</find>
+      <find>status</find>
+      <find>get_status</find>
+      <find>image_embedding_size</find>
+      <find>bl_model_state</find>
+      <find>action_size</find>
+      <find>ACModel</find>
+      <find>lr</find>
+      <find>action</find>
+      <find>optimizer</find>
+      <find>PPOAlgo</find>
+      <find>iteration</find>
+      <find>block_optimizer</find>
+      <find>env</find>
+      <find>envs</find>
+      <find>make_env</find>
+      <find>step</find>
+      <find>7325</find>
+      <find>9776</find>
+      <find>ACModel_Block</find>
+      <find>9766</find>
+      <find>gif</find>
+      <find>total_seed_num</find>
+      <find>block_list</find>
+      <find>mu_sig_memory</find>
+      <find>memory</find>
+      <find>block_hid_dim</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=16/3/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=16/4/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=16/5/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=14/1/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=14/2/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=14/3/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=14/4/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=14/5/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=12/1/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=12/2/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=12/3/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=12/4/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=12/5/log.csv" />
+        <option value="$PROJECT_DIR$/storage/baselines/CrossingS11N5_30M_mem32/1/log.csv" />
+        <option value="$PROJECT_DIR$/storage/baselines/CrossingS11N5_30M_mem32/2/log.csv" />
+        <option value="$PROJECT_DIR$/storage/baselines/CrossingS11N5_30M_mem32/3/log.csv" />
+        <option value="$PROJECT_DIR$/storage/baselines/CrossingS11N5_30M_mem32/4/log.csv" />
+        <option value="$PROJECT_DIR$/storage/baselines/CrossingS11N5_30M_mem32/5/log.csv" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_59.py" />
+        <option value="$PROJECT_DIR$/scripts/train_rims.py" />
+        <option value="$PROJECT_DIR$/scripts/train.py" />
+        <option value="$PROJECT_DIR$/utils/storage.py" />
+        <option value="$PROJECT_DIR$/scripts/evaluate.py" />
+        <option value="$PROJECT_DIR$/utils/agent_block.py" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=10/2/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=10/3/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=10/4/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=10/5/log.csv" />
+        <option value="$PROJECT_DIR$/storage/RIMs/CrossingS11N5_30M/topk=5/1/log.csv" />
+        <option value="$PROJECT_DIR$/storage/RIMs/CrossingS11N5_30M/topk=5/2/log.csv" />
+        <option value="$PROJECT_DIR$/storage/RIMs/CrossingS11N5_30M/topk=5/3/log.csv" />
+        <option value="$PROJECT_DIR$/model_vrm.py" />
+        <option value="$PROJECT_DIR$/scripts/train_vrm.py" />
+        <option value="$PROJECT_DIR$/model_rims.py" />
+        <option value="$PROJECT_DIR$/torch-ac/torch_ac/algos/base.py" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/1/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/2/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/3/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/4/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/5/log.csv" />
+        <option value="$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=8/1/log.csv" />
+        <option value="$PROJECT_DIR$/storage/plotter.py" />
+        <option value="$PROJECT_DIR$/torch-ac/torch_ac/algos/__init__.py" />
+        <option value="$PROJECT_DIR$/torch-ac/torch_ac/__init__.py" />
+        <option value="$PROJECT_DIR$/torch-ac/torch_ac/model.py" />
+        <option value="$PROJECT_DIR$/torch-ac/torch_ac/algos/base_block.py" />
+        <option value="$PROJECT_DIR$/scripts/train_block.py" />
+        <option value="$PROJECT_DIR$/utils/__init__.py" />
+        <option value="$PROJECT_DIR$/scripts/evaluate_block.py" />
+        <option value="$PROJECT_DIR$/torch-ac/torch_ac/algos/ppo_block.py" />
+        <option value="$PROJECT_DIR$/Minigrid_Installation_Execution.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-4" />
+    <option name="width" value="1855" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="utils" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="torch-ac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="torch-ac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="torch_ac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="code_on_policy_minigrid" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="torch-ac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="torch_ac" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="algos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/torch-ac/torch_ac/algos" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/utils" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.plotter">
+    <configuration default="false" name="scratch_54" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_54.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="plotter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/storage" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage/plotter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scratch_55" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_55.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="scratch_56" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_56.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GroupLinearLayer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RIMs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RIMs/GroupLinearLayer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rl-starter-files" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.scratch_54" />
+      <item index="1" class="java.lang.String" itemvalue="Python.plotter" />
+      <item index="2" class="java.lang.String" itemvalue="Python.scratch_55" />
+      <item index="3" class="java.lang.String" itemvalue="Python.scratch_56" />
+      <item index="4" class="java.lang.String" itemvalue="Python.GroupLinearLayer" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.plotter" />
+        <item index="1" class="java.lang.String" itemvalue="Python.GroupLinearLayer" />
+        <item index="2" class="java.lang.String" itemvalue="Python.scratch_56" />
+        <item index="3" class="java.lang.String" itemvalue="Python.scratch_55" />
+        <item index="4" class="java.lang.String" itemvalue="Python.scratch_54" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f61b1ba2-75f9-4513-9f50-40357152bc0a" name="Default" comment="" />
+      <created>1629275611522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629275611522</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20161726" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33997902" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.08256881" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.110091746" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/base_vrm.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/train_vrm.py" />
+    <entry file="file://$PROJECT_DIR$/storage/picture/CrossingS11N5_30M/RIMs_seed 3_no_var.png" />
+    <entry file="file://$PROJECT_DIR$/storage/picture/CrossingS9N3/best_5_no_var.png" />
+    <entry file="file://$PROJECT_DIR$/storage/picture/CrossingS9N3/RIMs_seed 3_no_var.png" />
+    <entry file="file://$PROJECT_DIR$/storage/picture/CrossingS9N3/RIMs_seed 5_no_var.png" />
+    <entry file="file://$PROJECT_DIR$/storage/baselines/CrossingS11N5_mem1/1/log.txt" />
+    <entry file="file://$PROJECT_DIR$/utils/other.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/ppo.py" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/4/log.csv" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/5/log.csv" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/2/log.csv" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/3/log.txt" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/3/log.csv" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/1/log.txt" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_base_check_here_after_AAAI22/lr_bl=1e-05/L=16_k=8/1/log.txt" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=8/1/log.txt" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_30M/lr_bl=1e-05/L=16_k=8/1/log.csv" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_20M/lr_bl=1e-05/L=16_k=8/1/log.csv" />
+    <entry file="file://$PROJECT_DIR$/storage/block/CrossingS11N5_15M/lr_bl=1e-05/L=16_k=14/1/log.txt" />
+    <entry file="file://$PROJECT_DIR$/storage/RIMs/CrossingS9N3/CrossingS9N3_check/topk=2/3/log.txt" />
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/base.py" />
+    <entry file="file://$PROJECT_DIR$/scripts/train_rims.py" />
+    <entry file="file://$PROJECT_DIR$/model_rims.py" />
+    <entry file="file://$PROJECT_DIR$/storage/plotter.py" />
+    <entry file="file://$PROJECT_DIR$/torch-ac/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model.py" />
+    <entry file="file://$PROJECT_DIR$/utils/agent.py" />
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/format.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/a2c.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/attention_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="50" lean-forward="true" selection-start-line="0" selection-start-column="50" selection-end-line="0" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Minigrid_Installation_Execution.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/storage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="37" column="43" lean-forward="true" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="true" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/ppo_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-354">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="33" lean-forward="true" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/agent_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1718">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/evaluate_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/torch-ac/torch_ac/algos/base_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="18" lean-forward="true" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/train_block.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

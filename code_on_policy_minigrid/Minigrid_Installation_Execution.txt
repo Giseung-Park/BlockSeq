@@ -1,0 +1,44 @@
+
+<Installation>
+
+1. Create Anaconda Environment
+
+conda create -n minigrid python=3.6
+
+conda activate minigrid
+
+
+2. Install required packages
+
+pip3 install -r requirements.txt
+
+cd torch-ac
+
+pip3 install -e .
+
+cd ..
+
+
+<Experiments>
+
+Seed 1,2,3,4,5
+
+1. SimpleCrossingS9N3 (3M)
+
+python3 -m scripts.train_block --algo ppo --env MiniGrid-SimpleCrossingS9N3-v0 --model CrossingS9N3 --frames 3000000 --block-length 8 --top-k 4 --seed 1
+
+
+2. SimpleCrossingS11N5 (30M)
+
+python3 -m scripts.train_block --algo ppo --env MiniGrid-SimpleCrossingS11N5-v0 --model CrossingS11N5 --frames 30000000 --block-length 16 --top-k 14 --seed 1 
+
+
+
+<Evaluation>
+
+python3 -m scripts.evaluate_block --env MiniGrid-SimpleCrossingS9N3-v0 --model CrossingS9N3 --block-length 8 --top-k 4 --seed 1
+
+python3 -m scripts.evaluate_block --env MiniGrid-SimpleCrossingS11N5-v0 --model CrossingS11N5 --block-length 16 --top-k 14 --seed 1
+
+
+
